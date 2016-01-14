@@ -19,7 +19,7 @@ Driver Function
 
 Results:
 
-Searching 10 Million Records and fetching took less than 0.01 Seconds on every attempt.
+Searching 10 Million Records and fetching results took less than 0.01 Seconds on every attempt.
 
 Search Results can be checked here
 
